@@ -1,1 +1,1 @@
-# Policies
+Store of privacvy policies.
