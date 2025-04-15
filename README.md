@@ -1,1 +1,1 @@
-Store of privacvy policies.
+Public.
